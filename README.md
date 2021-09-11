@@ -1,4 +1,4 @@
-# pokedex-dio
+# pokedex-dio https://github.com/rafaelmaiach/pokedex-dio/blob/03/pokemon-description/src/components/PokemonDescription/PokemonDescription.vue
 
 ## Project setup
 ```
